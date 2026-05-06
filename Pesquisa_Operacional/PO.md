@@ -1,20 +1,6 @@
 # 🏥 HospitalTech — Disciplina 4: Pesquisa Operacional
 ## Modelagem Matemática e Resolução Algorítmica
 
-**Projeto Integrador — Análise e Desenvolvimento de Sistemas**
-
-| Integrante | RA / Área |
-|---|---|
-| Luan Victor Campos de Souza (Líder) | 3023100074 — Gerência de Projetos |
-| Poliana Caroline Lopes de Souza | 3024106175 — Análise de Dados |
-| Vitor Donzel Pedoti | 3026104445 — Análise de Dados |
-| Julia Maria | 3024202672 — Gerência de Projetos |
-| Natalia Hirae Reis | 3024104897 — Pesquisa Operacional |
-| Rodrigo A P Souza | 3023103902 — Segurança da Informação |
-| Aline Siqueira Menezes | 3024202001 — Segurança da Informação |
-
-**Entrega Final: 18/05/2026**
-
 ---
 
 # 1. Introdução e Contextualização
