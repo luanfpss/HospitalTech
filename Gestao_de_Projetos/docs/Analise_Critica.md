@@ -4,16 +4,19 @@
 
 O orçamento total do projeto é de:
 
-:contentReference[oaicite:1]{index=1}
+**R$ 121.070,40**
 
 Incluindo contingência de 10%.
 
 O maior custo do projeto é mão de obra:
 
-:contentReference[oaicite:2]{index=2}
+**92,1%**
 
 O que é compatível com projetos de software intensivos em conhecimento.
+---
 
+Os riscos foram avaliados pela fórmula:
+Exposição ao Risco = Probabilidade × Impacto
 ---
 
 ## 5.2 Como o Scrum Mitiga o Risco de Atraso
