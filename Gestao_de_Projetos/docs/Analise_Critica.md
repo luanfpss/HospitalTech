@@ -16,6 +16,8 @@ O que é compatível com projetos de software intensivos em conhecimento.
 
 ## Os riscos foram avaliados pela fórmula:
 
+Exposição ao Risco = Probabilidade + Impacto
+
 ---
 
 ## 5.2 Como o Scrum Mitiga o Risco de Atraso
