@@ -4,7 +4,7 @@
 
 Os riscos foram avaliados pela fórmula:
 
-:contentReference[oaicite:0]{index=0}
+**Exposição ao Risco = Probabilidade × Impacto**
 
 Escala de 1 a 5 em cada dimensão, gerando uma exposição de 1 a 25.
 
