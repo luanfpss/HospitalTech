@@ -93,4 +93,4 @@ Entrega final prevista para **18/05/2026**
 
 ---
 
-*HospitalTech © 2025 — Projeto acadêmico de uso interno*
+*HospitalTech © 2026 — Projeto acadêmico de uso interno*
