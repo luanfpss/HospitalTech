@@ -285,4 +285,3 @@ Ambos os scripts incluem os três cenários (Base, Crise e Investimento) e impri
 
 ---
 
-*HospitalTech © 2025/2026 — Projeto Integrador — Análise e Desenvolvimento de Sistemas*
